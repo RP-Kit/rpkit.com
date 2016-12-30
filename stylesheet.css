@@ -1,0 +1,25 @@
+body {
+  background-color: #505050;
+}
+
+h1 {
+  text-align: center;
+}
+
+.box {
+  border-radius: 16px;
+  border-width: 2px;
+  border-color: #FCFCFC;
+  border-style: solid;
+  background-color: #2C2C2C;
+  color: #FCFCFC;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 640px;
+  padding: 32px;
+  box-shadow: 2px 2px #1C1C1C;
+  font-family: "Helvetica Neue", Helvetica, arial, freesans, clean, sans-serif;
+}
+
